@@ -11,6 +11,17 @@
 1) ‘Chewy’(https://www.chewy.com/) 사이트에서 건식 사료 정보 추출<br/>
 2) 수집 데이터<br>
 (사료 582개 - 제품명/브랜드/가격/연령대/기능/리뷰/리뷰 평점/원료/영양성분 함량(조단백, 조지방, 조섬유))
+
+#### 4. 분석 결과<br/>
+1) 전체 원료 개수 Wordcount
+<img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png" width="70%"/>
+
+2) 연령대별 유사도
+   연령대 별로 원료 구성에서 차이가 존재하는지 파악
+   <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png" width="70%"/>
+
+
+
 <table width="100%">
   <tr>
     <td>
