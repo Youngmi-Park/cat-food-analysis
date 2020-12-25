@@ -26,6 +26,13 @@
 4) 영양 성분 함량 기준으로 Clustering<br>
 <img src="https://user-images.githubusercontent.com/53163222/103141382-e58d9780-4736-11eb-966e-979da93a2bf3.png"/>
 <img  src="https://user-images.githubusercontent.com/53163222/103141384-ea524b80-4736-11eb-99ae-4a629e8fcd10.png"/>
+
+5) cluster별 빈도수 상위 10개 원료 추출 결과 
+<img src="https://user-images.githubusercontent.com/53163222/103141416-5e8cef00-4737-11eb-831f-7beef47bcb0c.png"/>
+
+6) 미네랄, 비타민등 원료표시를 제외한 단어 빈도수 확인
+<img src="https://user-images.githubusercontent.com/53163222/103141441-b0357980-4737-11eb-854c-0a94209efec1.png"/>
+
 <table width="100%">
   <tr>
     <td>
