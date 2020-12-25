@@ -81,5 +81,6 @@
   </tr> 
 </table>
 
-
-//![반려묘 사료 영양 성분 분석 PPT-김주은, 박영미-22](https://user-images.githubusercontent.com/53163222/103062450-896d2b00-45f1-11eb-943f-ba4c50222b46.jpg)
+<!--
+![반려묘 사료 영양 성분 분석 PPT-김주은, 박영미-22](https://user-images.githubusercontent.com/53163222/103062450-896d2b00-45f1-11eb-943f-ba4c50222b46.jpg)
+-->
