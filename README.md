@@ -21,7 +21,7 @@
    <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png"/>
 
 3)	연령대별로 원료 빈도수 차이 비교<br/>
-<img src="https://user-images.githubusercontent.com/53163222/103141283-b7f41e80-4735-11eb-9df6-7586230e67d9.png"/>
+<img src="https://user-images.githubusercontent.com/53163222/103141397-1b328080-4737-11eb-8d67-207e1430ebc5.png"/>
 
 4) 3)	영양 성분 함량 기준으로 Clustering<br>
 <img src="https://user-images.githubusercontent.com/53163222/103141382-e58d9780-4736-11eb-966e-979da93a2bf3.png"/>
