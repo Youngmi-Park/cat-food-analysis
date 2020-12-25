@@ -14,11 +14,11 @@
 
 #### 4. 분석 결과<br/>
 1) 전체 원료 개수 Wordcount
-<img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png" width="70%"/>
+<img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png"/>
 
 2) 연령대별 유사도
    연령대 별로 원료 구성에서 차이가 존재하는지 파악
-   <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png" width="70%"/>
+   <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png"/>
 
 
 
