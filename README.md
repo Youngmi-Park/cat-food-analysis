@@ -16,11 +16,12 @@
 1) 전체 원료 개수 Wordcount
 <img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png"/>
 
-2) 연령대별 유사도
+2) 연령대별 원료 유사도<br/>
    연령대 별로 원료 구성에서 차이가 존재하는지 파악
    <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png"/>
 
-
+3)	연령대별로 원료 빈도수 차이 비교
+<img src="https://user-images.githubusercontent.com/53163222/103141283-b7f41e80-4735-11eb-9df6-7586230e67d9.png"/>
 
 <table width="100%">
   <tr>
