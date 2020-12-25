@@ -91,6 +91,15 @@
   </tr> 
 </table>
 
+
+#### 참고문헌
+[1] chewy, 반려동물 용품 판매 사이트 https://www.chewy.com/ <br>
+[2] 이뉴스투데이 http://www.enewstoday.co.kr <br>
+[3] 반려동물 트렌드 리포트 2020. opensurvey https://blog.opensurvey.co.kr/article/companionanimal-2020-2/
+[4] 국내 반려동물 식품 및 용품 시장현황 분석 연구, 한국콘텐츠학회논문지, http://asq.kr/Xs7WQPDeTtTg6
+[5]영양성분 프로파일링 기반 사료추천 알고리듬, 한남대학교, 송희석. https://url.kr/m4hnub
+
+
 <!--
 ![반려묘 사료 영양 성분 분석 PPT-김주은, 박영미-22](https://user-images.githubusercontent.com/53163222/103062450-896d2b00-45f1-11eb-943f-ba4c50222b46.jpg)
 -->
