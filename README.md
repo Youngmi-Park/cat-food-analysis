@@ -14,23 +14,23 @@
 
 #### 4. 분석 결과<br/>
 1) 전체 원료 개수 Wordcount
-<center><img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png"/></center>
+<center><img src="https://user-images.githubusercontent.com/53163222/103141233-09e87480-4735-11eb-93dc-c906552dba2f.png"></center>
 
 2) 연령대별 원료 유사도<br/>
    연령대 별로 원료 구성에서 차이가 존재하는지 파악<br/>
-   <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png"/>
+   <img src="https://user-images.githubusercontent.com/53163222/103141234-0d7bfb80-4735-11eb-8d90-834628f1cb19.png">
 
 3)	연령대별로 원료 빈도수 차이 비교<br/>
-<img src="https://user-images.githubusercontent.com/53163222/103141397-1b328080-4737-11eb-8d67-207e1430ebc5.png"/>
+<img src="https://user-images.githubusercontent.com/53163222/103141397-1b328080-4737-11eb-8d67-207e1430ebc5.png">
 
 4) 영양 성분 함량 기준으로 Clustering<br>
-<img  src="https://user-images.githubusercontent.com/53163222/103141384-ea524b80-4736-11eb-99ae-4a629e8fcd10.png"/>
+<img  src="https://user-images.githubusercontent.com/53163222/103141384-ea524b80-4736-11eb-99ae-4a629e8fcd10.png">
 
 5) cluster별 빈도수 상위 10개 원료 추출 결과 
-<img src="https://user-images.githubusercontent.com/53163222/103141416-5e8cef00-4737-11eb-831f-7beef47bcb0c.png"/>
+<img src="https://user-images.githubusercontent.com/53163222/103141416-5e8cef00-4737-11eb-831f-7beef47bcb0c.png">
 
 6) 미네랄, 비타민등 원료표시를 제외한 단어 빈도수 확인
-<img src="https://user-images.githubusercontent.com/53163222/103141441-b0357980-4737-11eb-854c-0a94209efec1.png"/>
+<img src="https://user-images.githubusercontent.com/53163222/103141441-b0357980-4737-11eb-854c-0a94209efec1.png">
 
 <table width="100%">
   <tr>
